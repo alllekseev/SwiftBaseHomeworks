@@ -1,5 +1,3 @@
-//: [Homework 1](@previous)
-
 import Foundation
 
 // MARK: Task 1

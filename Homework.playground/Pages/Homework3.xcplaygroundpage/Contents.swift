@@ -1,5 +1,3 @@
-//: [Homework 2](@previous)
-
 import Foundation
 
 // MARK: Task 1
@@ -37,4 +35,3 @@ func createArr(with elementsCount: Int) -> [Int] {
 }
 
 print(createArr(with: 3))
-//: [Homework 4](@next)
