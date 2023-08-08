@@ -2,6 +2,8 @@
 <playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
     <pages>
         <page name='Homework1'/>
+        <page name='Homework2'/>
         <page name='Homework3'/>
+        <page name='Homework4'/>
     </pages>
 </playground>
